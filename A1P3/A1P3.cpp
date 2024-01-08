@@ -18,7 +18,7 @@ long long MinDistance(int a[], int asize)
         int y = a[i + 1];
         cout << "x: " <<x << " y: " <<y << "\n";
         cout << "a[i]: " <<a[i] << " a[i+1]: " <<a[i+1] << "\n";
-        long long d = y - x;Q
+        long long d = y - x;
         if (d == 0) return 0; // short circuit, distance of 0 achieved
         if (d < dist)
             dist = d;        
