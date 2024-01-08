@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A1P3", "A1P3.vcxproj", "{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}.Debug|Win32.Build.0 = Debug|Win32
+		{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}.Debug|x64.ActiveCfg = Debug|x64
+		{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}.Debug|x64.Build.0 = Debug|x64
+		{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}.Release|Win32.ActiveCfg = Release|Win32
+		{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}.Release|Win32.Build.0 = Release|Win32
+		{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}.Release|x64.ActiveCfg = Release|x64
+		{CCBEEB88-5235-4F1D-BC44-2E16B820FA3E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
